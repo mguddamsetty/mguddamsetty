@@ -2,8 +2,6 @@
 
 I'm a third-year electrical engineering transfer at UC San Diego with a triple focus in photonics, vlsi, & semiconductors :)
 
-I love anything that has to do with optics, semiconductors, & VLSI.
-
 Email: mguddamsetty[at]ucsd[dot]edu
 
 
