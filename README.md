@@ -1,6 +1,6 @@
 ## Mahatru Guddamsetty
 
-# Test
+I'm a third-year electrical engineering transfer at UC San Diego :)
 
 <!--
 **mguddamsetty/mguddamsetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
