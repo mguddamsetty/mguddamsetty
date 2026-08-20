@@ -5,6 +5,9 @@ I'm a third-year electrical engineering transfer at UC San Diego :)
 I love anything that has to do with optics, semiconductors, & VLSI.
 
 Email: mguddamsetty[at]ucsd[dot]edu
+
+
+if one were to ask me how many celsius and alani nu drinks i've consumed, i would plead the fifth.
 <!--
 **mguddamsetty/mguddamsetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
