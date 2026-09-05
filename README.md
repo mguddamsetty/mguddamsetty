@@ -1,6 +1,6 @@
 ## Mahatru Guddamsetty
 
-I'm a third-year electrical engineering transfer at UC San Diego with a triple focus in photonics, vlsi, & semiconductors :)
+I'm a third-year electrical engineering transfer at UC San Diego with a triple focus in photonics, vlsi, & ai :)
 
 Email: mguddamsetty[at]ucsd[dot]edu
 
