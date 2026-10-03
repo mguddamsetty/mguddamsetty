@@ -1,13 +1,9 @@
 ## Mahatru Guddamsetty
 
-I'm a third-year electrical engineering transfer at UC San Diego with a triple focus in photonics, vlsi, & ai :)
+I'm a third-year electrical engineering major at UC San Diego, with a triple focus in Photonics, VLSI Design, and AI 👍
 
 Email: mguddamsetty[at]ucsd[dot]edu
 
-
-huge fan of la jolla beach. 
-
-people should do this more: https://www.aao.org/physician-wellness/digital-detox
 <!--
 **mguddamsetty/mguddamsetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
