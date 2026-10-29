@@ -1,6 +1,6 @@
 ## Mahatru Guddamsetty
 
-I'm a third-year electrical engineering major at UC San Diego, with a triple focus in Photonics, VLSI Design, and AI 👍
+I'm a third-year electrical engineering major at UC San Diego, with a triple focus in Photonics, VLSI Design, and AI 
 
 Email: mguddamsetty[at]ucsd[dot]edu
 
